@@ -28,4 +28,4 @@ Se enfoca en replicar la apariencia visual de una invitación o páginas que est
 Si te gustaria invitarme a colaborar en un proyecto, contáctame por [Linkedin](https://www.linkedin.com/in/karla-navarro-3993a8123/).
 
 
-Si te gustaria invitarme a colaborar en un proyecto, contáctame por [Linkedin](https://www.linkedin.com/in/karla-navarro-3993a8123/).
+
