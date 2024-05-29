@@ -1,5 +1,5 @@
 ## Mi BODA 
-El proyecto fue creado durante el curso de Tecnolochicas con la idea de contruir una página para mi boda.
+El proyecto fue creado durante el curso de Tecnolochicas con la idea de construir una página para mi boda.
 
  Es creado puramente con HTMLS y CCS en el curso de Tecnolochicas creado por una servidora.
 
